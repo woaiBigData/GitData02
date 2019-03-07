@@ -2,6 +2,6 @@
 Creating a new branch is quick and simple
 mybra01 and master in here
 
-master  and mybra34 
+master  issue-001 
 
 测试删除的方法
